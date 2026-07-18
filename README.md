@@ -1,4 +1,4 @@
-# Internship Task - Responsive Navigation Menu
+# Internship Task 1 - Responsive Navigation Menu
 
 ## Project Overview
 This project is a responsive navigation menu developed using HTML, CSS, and JavaScript as part of the Prodigy InfoTech Web Development Internship (Task 1). The navigation menu adapts to different screen sizes and provides a seamless navigation experience with interactive effects and a clean user interface.
@@ -28,9 +28,6 @@ PRODIGY_WD_01/
 2. Open the project folder.
 3. Double-click `index.html` or open it in any web browser.
 
-## Author
-Pranjali Sonone
-
 ## Learning Outcomes
 
 - Learned how to create a responsive navigation menu using HTML, CSS, and JavaScript.
@@ -38,3 +35,14 @@ Pranjali Sonone
 - Gained experience in using JavaScript to make web pages more interactive.
 - Learned how to organize project files and maintain a clean project structure.
 - Improved my problem-solving skills by debugging and testing the navigation menu across different screen sizes.
+
+## Screenshots
+
+### Homepage
+![Homepage](Screenshot/homepage.png)
+
+### Navigation Menu on Scroll
+![Navigation Menu on Scroll](Screenshot/navigation-menu.png)
+  
+## Author
+Pranjali Sonone
